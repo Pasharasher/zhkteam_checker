@@ -6,7 +6,8 @@
 <details>
 <summary><strong>Нажмите здесь, чтобы увидеть пароль</strong></summary>
 
-1234
+
+```1234```
 
 </details>
 
